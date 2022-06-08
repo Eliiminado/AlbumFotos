@@ -1,3 +1,9 @@
-p {
-    background-color: aqua;
+#Nav {
+    border: 2px solid red;
+}
+#Logo{
+    border: 2px solid rebeccapurple;
+}
+#Dropdown{
+    border: 2px solid palevioletred;
 }
