@@ -1,6 +1,4 @@
-div {
-    border: 2px solid rgb(216, 22, 71);
-}
+
 #Nav{
     background-color: rgb(73, 67, 67);
     height: 50px;
@@ -50,6 +48,9 @@ div {
 #tiempo{
     float: right;
 
+}
+.card{
+    margin-bottom: 15%;
 }
 
 
