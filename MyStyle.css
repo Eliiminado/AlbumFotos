@@ -1,4 +1,25 @@
 div {
     border: 2px solid rgb(216, 22, 71);
 }
+#Nav{
+    background-color: rgb(73, 67, 67);
+    height: 50px;
+}
+#Logo{
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    padding-left: 0.5%;
+    
+}
+#Camera{
+    color: white;
+    padding-left: 100%;
+    margin-top: 15px;
+}
+#collapseExample{
+    background-color: rgb(73, 67, 67);
+}
+.h4{
+    color: white;
+}
 
