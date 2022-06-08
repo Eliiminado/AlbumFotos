@@ -1,20 +1,4 @@
-#Nav {
-    border: 2px solid red;
-}
-#Logo{
-    border: 2px solid rebeccapurple;
-}
-#Dropdown{
-    border: 2px solid palevioletred;
-}
-.col{
-    border: 2px solid blue;
-}
-.row {
-    
-    border: 2px solid blue;
-}
-.col-6{
-    border: 2px solid blue;
+div {
+    border: 2px solid rgb(216, 22, 71);
 }
 
